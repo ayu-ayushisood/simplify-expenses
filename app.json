@@ -1,0 +1,12 @@
+{
+  "name": "simplify-expenses",
+  "displayName": "simplify-expenses",
+  "expo": {
+    "name": "simplify-expenses",
+    "slug": "simplify-expenses",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
